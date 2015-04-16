@@ -1,0 +1,7 @@
+/.vagrant/
+
+/Vagrantfile
+
+/config/database.yml
+
+/config/secrets.yml
